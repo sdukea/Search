@@ -1,4 +1,4 @@
-# Informed Search Algorithms for the 8-Puzzle Problem\
+# Informed Search Algorithms for the 8-Puzzle Problem
 
 This repository contains Python implementations of two informed search algorithms for solving the **8-Puzzle Problem**:
 
