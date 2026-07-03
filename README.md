@@ -1,4 +1,4 @@
-# 8-Puzzle Problem using A* Search and Greedy Best-First Search
+# Informed Search Algorithms for the 8-Puzzle Problem\
 
 This repository contains Python implementations of two informed search algorithms for solving the **8-Puzzle Problem**:
 
@@ -103,9 +103,3 @@ The programs display the sequence of explored puzzle states and indicate when th
 - Implementing heuristic search techniques
 - Comparing A* Search and Greedy Best-First Search
 - Using Git and GitHub for version control and collaboration
-
----
-
-## Repository
-
-This repository was created for academic purposes as part of the Artificial Intelligence laboratory coursework.
